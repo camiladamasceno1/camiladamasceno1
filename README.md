@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/CamilaDamasceno1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaDamasceno1&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="![Camila Damasceno's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Camila Damasceno&theme=jolly&show_icons=true&hide_border=false&layout=compact)"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaDamasceno1&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
